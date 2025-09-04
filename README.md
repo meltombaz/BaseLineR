@@ -17,7 +17,8 @@ You can download the results as a CSV.
 ## Features
 
 - **File upload** (CSV, TXT, Excel)
-- **Automatic variable type detection**
+- **Automatic variable type detection** ==> Under Advanced Controls, you can select the variable type.
+- **Filter data**
 - **Statistical testing by group**
 - **Summary stats** (`mean ± SD` or `median [IQR]`)
 - **Downloadable results**
