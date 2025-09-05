@@ -1,7 +1,7 @@
-# baselinetablebuilder
-Baseline Characteristics Table Builder App
+# BaseLineR
+An interactive Shiny application for generating publication-ready baseline characteristics tables from clinical or research datasets.
 
-https://mlktombaz.shinyapps.io/baselinecharacteristictable/
+[https://mlktombaz.shinyapps.io/baselinecharacteristictable/](https://mlktombaz.shinyapps.io/BaseLineR/)
 
 # Baseline Characteristics Table Builder
 
